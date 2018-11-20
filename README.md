@@ -1,5 +1,5 @@
 ﻿### realize hash distinct based on HDFS
-![](https://img.shields.io/badge/language-C++-red.svg) 
+![](https://img.shields.io/badge/language-java-brown.svg) 
 ![](https://img.shields.io/badge/license-MIT-000000.svg)
 
 The project is to distinct based on hash. I implemented it on HBase and HDFS systems.
