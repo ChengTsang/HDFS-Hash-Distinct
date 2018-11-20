@@ -1,4 +1,7 @@
-﻿### realize hash distinct based on HDFS
+<div align=center>
+ ## Realize Hash Distinct Based on HDFS
+</center>
+
 ![](https://img.shields.io/badge/language-java-brown.svg) 
 ![](https://img.shields.io/badge/license-MIT-000000.svg)
 
