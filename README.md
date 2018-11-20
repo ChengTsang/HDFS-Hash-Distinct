@@ -1,4 +1,6 @@
-<div align=center>## Realize Hash Distinct Based on HDFS
+<div align=center>
+  
+  ## Realize Hash Distinct Based on HDFS
 </div align>
 
 ![](https://img.shields.io/badge/language-java-brown.svg) 
