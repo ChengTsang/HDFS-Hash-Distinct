@@ -12,21 +12,27 @@ for example:
 1|AMERICA|hs use ironic, even requests. s|
 
 zeroth column: 1
-
 first column: AMERICA
-
 Second columns: HS use ironic, even requests. S
 
 Some basic command below is helpful:
+```
   $ hdfs dfs –help
   -copyFromLocal [-f] [-p] [-l] <localsrc> ... <dst> :
+```
 Identical to the -put command.
+```
   -copyToLocal [-p] [-ignoreCrc] [-crc] <src> ... <localdst> :
+```
 Identical to the -get command.
+```
   -cat [-ignoreCrc] <src> ... :
+```
 Fetch all files that match the file pattern <src> and display
 their content on stdout.
+```
   -ls [-d] [-h] [-R] [<path> ...] :
+```
 list contents
 
 You could also read HDFSTest.java to know how to read data from HDFS. The HBaseTest.java
